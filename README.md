@@ -7,11 +7,12 @@
 ---
 
 ### ⚡ What I Do
-- 🔭 **Current Focus:** Full-stack systems, backend engineering, and database design.
-- 🌱 **Learning & Exploring:** Distributed system patterns and microservice architecture.
-- 💬 **Ask Me About:** Schema optimization, RESTful APIs, Node.js, and SQL.
-- 🎯 **Goals:** Contributing to meaningful open-source software and shipping production-ready systems.
 
+- 🔭 **Current Focus:** Backend development, full-stack systems, RESTful APIs, and database-driven applications.
+- 🌱 **Learning & Exploring:** React, TypeScript, Next.js, Node.js, MongoDB, SQL, system design, and scalable backend architecture.
+- 💬 **Ask Me About:** Node.js, REST APIs, SQL, DBMS, authentication & authorization, and backend development.
+- 🛠️ **Building With:** C++, JavaScript, Node.js, MySQL, MongoDB, Git, and GitHub.
+- 🎯 **Goals:** Strengthening my DSA and software engineering fundamentals, contributing to meaningful open-source projects, and building production-ready applications.
 ---
 
 ### 🛠️ Tech Stack
@@ -31,8 +32,8 @@
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Project One** | Backend system with database modeling, relational schemas, and caching. | `Node.js` `PostgreSQL` | [View Repo ↗](https://github.com/Anish-Valke) |
-| **Project Two** | Full-stack application with authentication and responsive dashboard UI. | `TypeScript` `Express` `MySQL` | [View Repo ↗](https://github.com/Anish-Valke) |
+| **Repo-manager** | Streamlined tool for managing, organizing, and automating repository workflows. | `Git` `Automation` `CLI / Backend` | [View Repo ↗](https://github.com/Anish-Valke/Repo-manager) |
+| **Expense-Tracker** | Application designed to record, categorize, and track personal finances with data persistence. | `Full Stack` `Database` `REST API` | [View Repo ↗](https://github.com/Anish-Valke/Expense-Tracker) |
 
 ---
 
@@ -44,9 +45,9 @@
 ---
 
 ### 📫 Connect
-- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Twitter / X:** [@your-handle](https://twitter.com/your-handle)
+- **LinkedIn:** [linkedin.com/in/anish-valke](https://www.linkedin.com/in/anish-valke)
+- **Instagram:** [@a_n_i_s_h_2807](https://www.instagram.com/a_n_i_s_h_2807)
+- **Email:** [anishvalke28@gmail.com](mailto:anishvalke28@gmail.com)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Anish-Valke&color=blueviolet&style=flat-square" alt="Views" />
