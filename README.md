@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./header.svg" alt="Header Banner" width="100%" />
-</p>
 <h1 align="center">Hi 👋, I'm Anish Valke</h1>
 <h3 align="center">A passionate developer building cool software solutions</h3>
 
