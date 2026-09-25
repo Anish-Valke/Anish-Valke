@@ -1,54 +1,53 @@
-<h1 align="center">Hi 👋, I'm Anish Valke</h1>
-<h3 align="center">A passionate developer building cool software solutions</h3>
+# Hi, I'm Anish Valke 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anish-Valke&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Anish-Valke?label=Follow&style=flat-square&logo=github" alt="GitHub Followers" />
-</p>
+> Full-Stack Developer focused on building clean backends, scalable APIs, and structured database systems.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=61DAFB&vCenter=true&width=450&lines=Building+scalable+web+applications;Database+modeling+%26+architecture;Turning+complex+logic+into+clean+code)](https://github.com/Anish-Valke)
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently exploring and building full-stack applications and database architectures.
-- ⚡ Fun fact: I love turning complex logic and system designs into clean, scalable code.
+### ⚡ What I Do
+- 🔭 **Current Focus:** Full-stack systems, backend engineering, and database design.
+- 🌱 **Learning & Exploring:** Distributed system patterns and microservice architecture.
+- 💬 **Ask Me About:** Schema optimization, RESTful APIs, Node.js, and SQL.
+- 🎯 **Goals:** Contributing to meaningful open-source software and shipping production-ready systems.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <br>
-  
-  <!-- Frameworks & Databases -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Languages:**  
+`Python` • `TypeScript` • `JavaScript` • `SQL` • `HTML5` • `CSS3`
+
+**Backend & Databases:**  
+`Node.js` • `Express.js` • `PostgreSQL` • `MySQL` • `Redis`
+
+**Tools & Workflow:**  
+`Git` • `GitHub` • `Docker` • `Postman` • `Linux` • `VS Code`
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Repositories
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anish-Valke&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-Valke&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **Project One** | Backend system with database modeling, relational schemas, and caching. | `Node.js` `PostgreSQL` | [View Repo ↗](https://github.com/Anish-Valke) |
+| **Project Two** | Full-stack application with authentication and responsive dashboard UI. | `TypeScript` `Express` `MySQL` | [View Repo ↗](https://github.com/Anish-Valke) |
 
 ---
 
-### 📫 Connect with Me
-- 💼 LinkedIn: [Your Profile URL](https://linkedin.com/in/your-username)
-- 🐦 Twitter/X: [@your-handle](https://twitter.com/your-handle)
-- 📧 Email: your.email@example.com
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-Valke&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+---
+
+### 📫 Connect
+- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Twitter / X:** [@your-handle](https://twitter.com/your-handle)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Anish-Valke&color=blueviolet&style=flat-square" alt="Views" />
+</p>
